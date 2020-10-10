@@ -1,5 +1,5 @@
-# djang web project
-djang web project
+# django web project
+django web project
 
 -현재 진행되고 있는 프로젝트입니다.
  * 대학교 졸업작품입니다.
